@@ -1,1 +1,2 @@
 # odin-recipes
+This project will test my knowledge on HTML. Specifically, I will write a file that encompasses the HTML boilerplate, headings, list (both ordered and unordered), image tags and anchor tags.
